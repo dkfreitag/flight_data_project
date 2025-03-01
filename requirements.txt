@@ -1,0 +1,2 @@
+python-dotenv==1.0.1
+flatten-json==0.1.14
